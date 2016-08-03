@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankSystem.Logics", "BankSystem.Logics\BankSystem.Logics.csproj", "{F8F4E572-8E7D-4DA0-A66B-2525C657C620}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankSystem.CLI", "BankSystem.CLI\BankSystem.CLI.csproj", "{16F777CB-04A8-41BE-89C1-8991C5125751}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankSystem.Logic.Tests", "BankSystem.Logic.Tests\BankSystem.Logic.Tests.csproj", "{4999330F-BCB1-4FE4-AFC3-E989781EB0C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8F4E572-8E7D-4DA0-A66B-2525C657C620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F4E572-8E7D-4DA0-A66B-2525C657C620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8F4E572-8E7D-4DA0-A66B-2525C657C620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8F4E572-8E7D-4DA0-A66B-2525C657C620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16F777CB-04A8-41BE-89C1-8991C5125751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F777CB-04A8-41BE-89C1-8991C5125751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F777CB-04A8-41BE-89C1-8991C5125751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F777CB-04A8-41BE-89C1-8991C5125751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4999330F-BCB1-4FE4-AFC3-E989781EB0C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4999330F-BCB1-4FE4-AFC3-E989781EB0C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4999330F-BCB1-4FE4-AFC3-E989781EB0C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4999330F-BCB1-4FE4-AFC3-E989781EB0C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
